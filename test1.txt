@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is A649-DC95
+
+ Directory of C:\Users\harsh\Desktop\myproject
+
+06-07-2023  02.25 PM    <DIR>          .
+06-07-2023  02.22 PM    <DIR>          ..
+06-07-2023  02.25 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  95,659,257,856 bytes free
